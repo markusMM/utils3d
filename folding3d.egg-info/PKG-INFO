@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: folding3d
+Version: 1.2.0
+Requires: torch
